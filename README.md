@@ -17,8 +17,8 @@ Tech merchandise ecommerce website.
 
 ## Screenshots
 
-![App Screenshot] (https://i.ibb.co/X36bLP2/Frontend-Store-Logo.png)
-![App Screenshot] (https://i.ibb.co/h7WyRjY/frontend-Store.png)
+![App Screenshot](https://i.ibb.co/X36bLP2/Frontend-Store-Logo.png)
+![App Screenshot](https://i.ibb.co/h7WyRjY/frontend-Store.png)
 
 
 ## License
