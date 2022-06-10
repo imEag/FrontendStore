@@ -3,6 +3,8 @@
 
 Tech merchandise ecommerce website.
 
+[Visit the project website](https://imeag.github.io/FrontendStore/)
+
 ## Features
 
 - User can see different T-shirt designs in the home page
